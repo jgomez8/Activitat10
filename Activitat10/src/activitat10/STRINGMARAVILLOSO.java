@@ -55,6 +55,7 @@ public class STRINGMARAVILLOSO {
 
         printSuperior();
         printInferior();
+        System.out.println("Modificacio petita");
        
     }
 }
